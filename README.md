@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Princess Mariama Diaz-Ramboyong  
 
-📍 Vancouver, BC  | ✉️ princessmpdiaz@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/)
+📍 Vancouver, BC, Canada  | ✉️ princessmpdiaz@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/)
 
 ---
 
@@ -38,7 +38,7 @@
 I am grateful for the opportunity to have worked with exceptional teams in my previous roles.  
 Here are reference letters from my former employers acknowledging my contributions and professionalism:
 
-- **Acquient Asia (Subsidiary of K2 Partnering Solutions)**  
+- **Aquient Asia (Subsidiary of K2 Partnering Solutions)**  
   Reference letter highlighting my achievements as a **Project Manager**, including delivering agile projects on time and driving CRM and eCommerce integrations for global clients.
 
 - **ZTE Philippines Inc.**  
