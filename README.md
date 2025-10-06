@@ -21,7 +21,7 @@
 - **PSM I – Professional Scrum Master I**  
 - **AZ-900 – Microsoft Certified: Azure Fundamentals**
 - **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
-📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)  
+- 📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)  
 
 ⚡ **Fun fact:** I have successfully delivered projects across **the Philippines, Singapore, and Canada**, spanning telecom infrastructure development and digital transformation initiatives for prominent global organizations.
 
