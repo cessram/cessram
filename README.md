@@ -16,18 +16,38 @@
 
 💬 **Ask me about** **agile project management, CRM and eCommerce platform integrations, IT service management, and using analytics to optimize processes and drive performance**.
 
-🏅 **Certifications:**  
-- **PMP® – Project Management Professional** 
-- **PSM I – Professional Scrum Master I**  
-- **AZ-900 – Microsoft Certified: Azure Fundamentals**
-- **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
-- 📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)  
-
 ⚡ **Fun fact:** I have successfully delivered projects across **the Philippines, Singapore, and Canada**, spanning telecom infrastructure development and digital transformation initiatives for prominent global organizations.
 
 🎓 **Education**
 - **Master of Professional Studies in Data Analytics (Ongoing, Jan 2026)** – Northeastern University, Vancouver  📂 [Transcript](https://drive.google.com/file/d/16nLnz8GujhfmbwQVazLhrfo4NKi-vGC1/view?usp=drive_link)  
 - **Bachelor of Science in Electronics Engineering (2010–2015)** – Mapúa Institute of Technology  📂 [Degree Certificate](https://drive.google.com/file/d/1XyGx4zguZAzN0UUKh8TRj_J6yDT8mZAS/view?usp=drive_link)  
+
+
+
+🏅 **Certifications:**  
+- **PMP® – Project Management Professional** 
+- **PSM I – Professional Scrum Master I**  
+- **AZ-900 – Microsoft Certified: Azure Fundamentals**
+- **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
+📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)
+
+
+
+📄 **Work Reference Letters**
+
+I am grateful for the opportunity to have worked with exceptional teams in my previous roles.  
+Here are reference letters from my former employers acknowledging my contributions and professionalism:
+
+- **Acquient Asia (Subsidiary of K2 Partnering Solutions)**  
+  Reference letter highlighting my achievements as a **Project Manager**, including delivering agile projects on time and driving CRM and eCommerce integrations for global clients.
+
+- **ZTE Philippines Inc.**  
+  Reference letter recognizing my contributions as a **Project Control Manager**, where I accelerated site permitting approvals, enhanced process efficiency, and oversaw telecom infrastructure deployments.
+
+- **Ericsson Telecommunications**  
+  Reference letter commending my performance as an **Assistant Customer Project Manager**, supporting major network upgrades, ensuring documentation compliance, and improving reporting through real-time dashboards.
+
+- 📂 [Reference Letters](https://drive.google.com/drive/folders/1R_fOZThNBeJ5WkvXTTFcb4NnGmsS7ubo?usp=drive_link)
 
 
 ## 🌐 Socials:
