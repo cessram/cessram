@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Princess Mariama Diaz-Ramboyong  
 
-📍 Vancouver, BC  | ✉️ princessmpdiaz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/)
+📍 Vancouver, BC  | ✉️ princessmpdiaz@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/)
 
 ---
 
