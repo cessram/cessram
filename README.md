@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me  
 
-🔭 **I’m currently focused on** enhancing my expertise in **data analytics and project management** while pursuing a **Master of Professional Studies in Data Analytics at Northeastern University**. I bring prior experience in optimizing workflows and supporting digital solution implementations at **Project Physio+**.
+🔭 **I’m currently focused on** enhancing my expertise in **data analytics and project management** while pursuing a **Master of Professional Studies in Data Analytics at Northeastern University**. I bring prior experience in optimizing workflows and supporting digital solution implementations.
 
 👯 **I’m looking to collaborate on** **data analytics, business intelligence, and process optimization initiatives**, leveraging my background in **project delivery, agile methodologies, and data visualization** to generate actionable insights and measurable impact.
 
