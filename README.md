@@ -29,7 +29,7 @@
 - **PSM I – Professional Scrum Master I**  
 - **AZ-900 – Microsoft Certified: Azure Fundamentals**
 - **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
-📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)
+- 📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)
 
 
 
@@ -71,7 +71,7 @@ Here are reference letters from my former employers acknowledging my contributio
 - **Tools:** Excel  
 - **Description:** Built an expense/time tracking system with pivot tables, formulas, and conditional formatting.  
 - **Value:** Demonstrates strong Excel automation, reporting accuracy, and admin efficiency.  
-- 📂 [Automated Tracker]([https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno](https://docs.google.com/spreadsheets/d/14mrs_M8QiR80Vinw0y0Xf9S6hfzZWzFHvvpFm7XIjlc/edit?usp=sharing))  
+- 📂 [Automated Tracker]([https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno](https://docs.google.com/spreadsheets/d/14mrs_M8QiR80Vinw0y0Xf9S6hfzZWzFHvvpFm7XIjlc/edit?usp=sharing) 
 
 ---
 
