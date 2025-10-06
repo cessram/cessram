@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Princess Mariama Diaz-Ramboyong  
 
-📍 Vancouver, BC | 📞 +1 (780) 862-5571 | ✉️ princessmpdiaz@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/) | [Portfolio Drive](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno?usp=sharing)  
+📍 Vancouver, BC  | ✉️ princessmpdiaz@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/princessmariamadiaz/)
 
 ---
 
@@ -18,16 +18,17 @@
 💬 **Ask me about** **agile project management, CRM and eCommerce platform integrations, IT service management, and using analytics to optimize processes and drive performance**.
 
 🏅 **Certifications:**  
-- **PMP® – Project Management Professional**  
+- **PMP® – Project Management Professional** 
 - **PSM I – Professional Scrum Master I**  
 - **AZ-900 – Microsoft Certified: Azure Fundamentals**
 - **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
+📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)  
 
 ⚡ **Fun fact:** I have successfully delivered projects across **the Philippines, Singapore, and Canada**, spanning telecom infrastructure development and digital transformation initiatives for prominent global organizations.
 
 🎓 **Education**
-- **Master of Professional Studies in Data Analytics (Ongoing, Jan 2026)** – Northeastern University, Vancouver  
-- **Bachelor of Science in Electronics Engineering (2010–2015)** – Mapúa Institute of Technology  
+- **Master of Professional Studies in Data Analytics (Ongoing, Jan 2026)** – Northeastern University, Vancouver  📂 [Transcript](https://drive.google.com/file/d/16nLnz8GujhfmbwQVazLhrfo4NKi-vGC1/view?usp=drive_link)  
+- **Bachelor of Science in Electronics Engineering (2010–2015)** – Mapúa Institute of Technology  📂 [Degree Certificate](https://drive.google.com/file/d/1XyGx4zguZAzN0UUKh8TRj_J6yDT8mZAS/view?usp=drive_link)  
 
 
 ## 🌐 Socials:
@@ -40,8 +41,9 @@
 - **Languages:** SQL, Python, R  
 - **Analytics & Visualization:** Tableau, Power BI, Excel (Advanced)  
 - **Data Science:** Pandas, Numpy, statistical analysis  
-- **Project Management Tools:** Procore, MS Project, Primavera P6, JIRA, ServiceNow  
-- **Collaboration Tools:** SharePoint, OneDrive, Lucidchart, Miro, Figma  
+- **Project & Service Management Tools:** : JIRA, ServiceNow, MS Project, Kanban boards, ITSM best practices
+- **Collaboration Tools:** SharePoint, OneDrive, Lucidchart, Miro, Figma
+- **Process Mapping & Documentation:** Workflow diagrams, process optimization, technical documentation
 ---
 
 ## 🔹 Featured Projects  
@@ -50,31 +52,49 @@
 - **Tools:** Excel  
 - **Description:** Built an expense/time tracking system with pivot tables, formulas, and conditional formatting.  
 - **Value:** Demonstrates strong Excel automation, reporting accuracy, and admin efficiency.  
-- 📂 [Project Files](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
+- 📂 [Automated Tracker]([https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno](https://docs.google.com/spreadsheets/d/14mrs_M8QiR80Vinw0y0Xf9S6hfzZWzFHvvpFm7XIjlc/edit?usp=sharing))  
 
 ---
 
-### 2. Meeting Minutes Template  
-- **Tools:** MS Word/Excel  
-- **Description:** Professional meeting minutes and action item template to support project coordination.  
-- **Value:** Highlights organizational and documentation management skills.  
-- 📂 [Template](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
+### 2. Service Desk Dashboard – Jira & Salesforce Integration  
+**Tools:** Jira | Excel | Power BI  
+
+Developed an **interactive dashboard** to monitor and analyze Service Desk tickets raised in **Jira** related to client **Salesforce CRM and Marketing issues**.  
+The dashboard visualizes:
+- 📈 Monthly ticket trends  
+- ⏱️ SLA performance (Met, On Pause, Delayed)  
+- 🧾 Ticket categories (Bugs & Errors, Maintenance, Others)  
+- ⚙️ Severity levels and resolution rates  
+
+**Value:**  
+Enhanced operational visibility and improved Service Desk response efficiency through data-driven insights and automation of status tracking.
+
+📊 **Sample Visualization:**  
+📂 [Tracker](https://docs.google.com/spreadsheets/d/1BPJprO8S60iGMRpKlt9eMeapSTaUs8VS/edit?usp=drive_link&ouid=115382325510605536778&rtpof=true&sd=true)  
 
 ---
 
-### 3. QA/QC Compliance Tracker  
+### 🌟 Highlights
+- 💡 Demonstrates data visualization and reporting skills.  
+- 🤝 Integrates analytics into IT service management workflows.  
+- 📚 Reflects experience in project tracking, client coordination, and performance metrics.
+
+
+---
+
+### 3. QA/QC Compliance Tracker (Telecom) 
 - **Tools:** Excel, Power BI  
 - **Description:** Tracker for RFIs, inspections, and deficiencies with a dashboard to monitor open/closed issues.  
 - **Value:** Simulates construction QA/QC workflows and compliance monitoring.  
-- 📂 [Tracker](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
+- 📂 [Tracker](https://docs.google.com/spreadsheets/d/1pF-vDaN2nP1TeIfZ6Q3RSBEr68dlEwGR/edit?usp=drive_link&ouid=115382325510605536778&rtpof=true&sd=true)  
 
 ---
 
 ### 4. Data Cleaning & Reporting Project  
-- **Tools:** Python (Pandas), Tableau  
-- **Description:** Cleaned and transformed a raw dataset, visualized insights in Tableau dashboards.  
-- **Value:** Demonstrates data wrangling, statistical analysis, and visualization skills.  
-- 📂 [Data Project](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
+- **Tools:** R Programming, SQL  
+- **Description:** Cleaned and transformed raw datasets, performed exploratory analysis and visualizations in R, and structured the processed data in SQL for organized storage and reporting.  
+- **Value:** Highlights practical skills in **data wrangling, statistical analysis, and visualization**, demonstrating the ability to prepare and present data for meaningful insights.
+- 📂 [Data Project](https://drive.google.com/drive/folders/1r6yjuqCoi0_MJhmrRSwe-qizJtxXrsi8?usp=drive_link)  
 
 ---
 
@@ -82,24 +102,8 @@
 - **Tools:** Tableau / Power BI  
 - **Description:** KPI dashboard for a mock company showing revenue, costs, and resource utilization.  
 - **Value:** Demonstrates BI storytelling and decision-making support.  
-- 📂 [Dashboard](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
+- 📂 [Dashboard](https://public.tableau.com/app/profile/princess.mariama.ramboyong/viz/Assignment5_Tableau_Group1/GroupProject)  
 
----
-
-### 6. Construction Project Plan  
-- **Tools:** MS Project / Primavera P6  
-- **Description:** Gantt chart for a small construction project with dependencies, milestones, and QA/QC tasks.  
-- **Value:** Highlights project scheduling and coordination skills.  
-- 📂 [Project Plan](https://drive.google.com/drive/folders/1XO0RXvhO15bRC6C6Kn-qayXHQrG6QJno)  
-
----
-
-## 🛠 Technical Skills  
-- **Languages:** SQL, Python, R  
-- **Analytics & Visualization:** Tableau, Power BI, Excel (Advanced)  
-- **Data Science:** Pandas, Numpy, statistical analysis  
-- **Project Management Tools:** Procore, MS Project, Primavera P6, JIRA, ServiceNow  
-- **Collaboration Tools:** SharePoint, OneDrive, Lucidchart, Miro, Figma  
 
 ---
 
