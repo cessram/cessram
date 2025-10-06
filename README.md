@@ -31,7 +31,7 @@
 - **Professional Engineer (P.Eng) – Application in Progress (EGBC)**
 - 📂 [Certifications](https://drive.google.com/drive/folders/1F7Z1XeHg6DsMxkYC3DT7WZxvjAI-VPeX?usp=drive_link)
 
-
+---
 
 📄 **Work Reference Letters**
 
