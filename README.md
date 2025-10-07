@@ -60,7 +60,7 @@ Here are reference letters from my former employers acknowledging my contributio
 - **Languages:** SQL, Python, R  
 - **Analytics & Visualization:** Tableau, Power BI, Excel (Advanced)  
 - **Data Science:** Pandas, Numpy, statistical analysis  
-- **Project & Service Management Tools:** : JIRA, ServiceNow, MS Project, Kanban boards, ITSM best practices
+- **Project & Service Management Tools:** : JIRA, ServiceNow, MS Project, Primavera, Kanban boards, ITSM best practices
 - **Collaboration Tools:** SharePoint, OneDrive, Lucidchart, Miro, Figma
 - **Process Mapping & Documentation:** Workflow diagrams, process optimization, technical documentation
 ---
@@ -91,15 +91,6 @@ Enhanced operational visibility and improved Service Desk response efficiency th
 📊 **Sample Visualization:**  
 📂 [Tracker](https://docs.google.com/spreadsheets/d/1BPJprO8S60iGMRpKlt9eMeapSTaUs8VS/edit?usp=drive_link&ouid=115382325510605536778&rtpof=true&sd=true)  
 
----
-
-### 🌟 Highlights
-- 💡 Demonstrates data visualization and reporting skills.  
-- 🤝 Integrates analytics into IT service management workflows.  
-- 📚 Reflects experience in project tracking, client coordination, and performance metrics.
-
-
----
 
 ### 3. QA/QC Compliance Tracker (Telecom) 
 - **Tools:** Excel, Power BI  
@@ -124,6 +115,12 @@ Enhanced operational visibility and improved Service Desk response efficiency th
 - 📂 [Dashboard](https://public.tableau.com/app/profile/princess.mariama.ramboyong/viz/Assignment5_Tableau_Group1/GroupProject)  
 
 
+---
+
+### 🌟 Highlights
+- 💡 Demonstrates data visualization and reporting skills.  
+- 🤝 Integrates analytics into IT service management workflows.  
+- 📚 Reflects experience in project tracking, client coordination, and performance metrics.
 ---
 
 
